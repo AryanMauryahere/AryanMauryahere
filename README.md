@@ -1,8 +1,8 @@
 Hii, I'am Aryan 👋
 
-🧠 Computer science student <br>
-💎 Core interest in cybersecurity <br>
-📊 Currently working on various tech projects <br>
+🧠 Computer science student. <br>
+💎 Core interest in cybersecurity. <br>
+📊 Currently working on various tech projects. <br>
 
 
 ## 🌐 Socials:
