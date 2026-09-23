@@ -5,6 +5,7 @@ Hii, I'am Aryan 👋
 📊 Currently working on various tech projects. <br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_sw._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-maurya-96999734b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmaurya-cmpn@atharvacoe.ac.in) 
 
