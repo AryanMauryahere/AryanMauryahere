@@ -1,8 +1,5 @@
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG93dmVpaHd1eXBkOWtsOTI3ZGh5dmN4MDV2aDM5cTk0cDVvMXpqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" height="400px" alt="banner" />
-</p>
+<img src="assets/banner.gif" width="100%" alt="Aryan Maurya" />
 
-<h1 align="center">Aryan Maurya</h1>
 <h3 align="center">Full-Stack Developer | Builder | Learner</h3>
 
 <div align="center">
@@ -69,13 +66,18 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/AryanMauryahere/AryanMauryahere/output/github-snake.svg" />
 </picture>
 
-<br/><br/>
+</div>
 
+<br/>
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=AryanMauryahere&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" /><br><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=AryanMauryahere&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+
+<br/><br/>
+
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=AryanMauryahere&label=Profile%20Views&color=00e676&style=for-the-badge" alt="Profile views" /></a>
+
 </div>
