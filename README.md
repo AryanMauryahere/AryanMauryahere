@@ -1,3 +1,12 @@
+hey, I AM Aryan
+enthusiastic Aryan
+coding Aryan
+full-stack Aryan
+analytical Aryan
+caffeinated Aryan
+curious Aryan
+innovating Aryan
+strategic Aryan
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_sw._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-maurya-96999734b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmy13307@gmail.com) 
