@@ -1,12 +1,21 @@
-hey, I AM Aryan<br>
-enthusiastic Aryan<br>
-coding Aryan<br>
-full-stack Aryan<br>
-analytical Aryan<br>
-caffeinated Aryan<br>
-curious Aryan<br>
-innovating Aryan<br>
-strategic Aryan<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aryan%20Maurya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Learner&descSize=18&descAlignY=60" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Enthusiastic+%26+curious+coder;Full-stack+%7C+Analytical+%7C+Strategic;Fueled+by+caffeine+%E2%98%95;Always+building+something+new" alt="typing intro" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AryanMauryahere&label=Profile%20Views&color=00e676&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/AryanMauryahere?style=for-the-badge&color=7c4dff)
+
+</div>
+
+<br/>
+
+> 💭 *"Code, coffee, and curiosity. That's the whole stack."*
+
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_sw._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-maurya-96999734b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmy13307@gmail.com) 
