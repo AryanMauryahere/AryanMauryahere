@@ -43,15 +43,15 @@
 
 <br/>
 
-<div align="center">
+<div>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="55%" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="40%" alt="GitHub stats" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="55%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="40%" alt="GitHub streak" />
 <br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="55%" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="40%" alt="Top languages" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanMauryahere/AryanMauryahere/output/github-snake-dark.svg" />
