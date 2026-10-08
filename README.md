@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3NTB1eXh4cDR4b25oenFveG91cnZodTY3bnVjZmI0NWN2YXdsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif" width="100%" alt="banner" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG93dmVpaHd1eXBkOWtsOTI3ZGh5dmN4MDV2aDM5cTk0cDVvMXpqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" height="400px" alt="banner" />
 </p>
 
 <h1 align="center">Aryan Maurya</h1>
