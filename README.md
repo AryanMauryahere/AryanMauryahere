@@ -1,4 +1,6 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF6MWtwcXExemZwcWJzbTBrdXNxcHRqbGd0d25oZGFnOXY0aDBubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%" alt="banner" />
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3NTB1eXh4cDR4b25oenFveG91cnZodTY3bnVjZmI0NWN2YXdsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif" width="100%" alt="banner" />
+</p>
 
 <h1 align="center">Aryan Maurya</h1>
 <h3 align="center">Full-Stack Developer | Builder | Learner</h3>
