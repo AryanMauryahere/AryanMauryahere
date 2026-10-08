@@ -44,17 +44,29 @@
 
 <br/>
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=false" alt="GitHub streak" />
-<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-
-</div>
+<table align="center" border="0">
+  <tr>
+    <td valign="middle" width="45%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Building: <b>full-stack projects &amp; games</b></li>
+        <li>🌱 Learning: <b>your tech here</b></li>
+        <li>⚡ Style: <b>enthusiastic, analytical, curious</b></li>
+        <li>☕ Fuel: <b>caffeine</b></li>
+        <li>📫 Reach me: <b>use the buttons above</b></li>
+      </ul>
+    </td>
+    <td valign="middle" width="55%">
+      <img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="100%" alt="GitHub stats" />
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="100%" alt="GitHub streak" />
+      <br/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="100%" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
