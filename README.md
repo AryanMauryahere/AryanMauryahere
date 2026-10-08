@@ -44,15 +44,17 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-    <td valign="middle" width="55%">
-      <img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="100%" alt="GitHub stats" />
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="100%" alt="GitHub streak" />
-      <br/>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="100%" alt="Top languages" />
-    </td>
-  </tr>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="55%" alt="GitHub stats" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="55%" alt="GitHub streak" />
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="55%" alt="Top languages" />
+
+</div>
 
 <br/>
 
@@ -65,18 +67,13 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/AryanMauryahere/AryanMauryahere/output/github-snake.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
-<br/>
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=AryanMauryahere&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
-
----
-
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=AryanMauryahere&icon=0&color=0" alt="Profile views" /></a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=AryanMauryahere&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" /><br><br><br>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=AryanMauryahere&label=Profile%20Views&color=00e676&style=for-the-badge" alt="Profile views" /></a>
 </div>
