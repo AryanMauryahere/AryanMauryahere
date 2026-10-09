@@ -16,7 +16,7 @@
 
 <br/>
 
-> 💭 *"Code, coffee, and curiosity. That's the whole stack."*
+<!-- 💭 *"Code, coffee, and curiosity. That's the whole stack."*  -->
 
 <br/>
 
