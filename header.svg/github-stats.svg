@@ -55,27 +55,27 @@
 
   <rect class="card" x="40" y="105" width="300" height="190" rx="20"/>
   <text class="label" x="68" y="148">Total contributions</text>
-  <text class="value" x="68" y="222">0</text>
+  <text class="value" x="68" y="222">128</text>
   <text class="small" x="68" y="250">Updated by GitHub Actions</text>
 
   <rect class="card" x="360" y="105" width="480" height="190" rx="20"/>
   <text class="label" x="390" y="148">Current streak</text>
   <circle cx="600" cy="205" r="65" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="12"/>
-  <circle id="current-ring" cx="600" cy="205" r="65" fill="none" stroke="url(#ring)" stroke-width="12" stroke-linecap="round" transform="rotate(-90 600 205)" stroke-dasharray="0 408.4"/>
-  <text id="current-streak" x="600" y="211" text-anchor="middle" fill="#e8ecf8" font-size="38" font-weight="800">0</text>
+  <circle id="current-ring" cx="600" cy="205" r="65" fill="none" stroke="url(#ring)" stroke-width="12" stroke-linecap="round" transform="rotate(-90 600 205)" stroke-dasharray="408.4 408.4"/>
+  <text id="current-streak" x="600" y="211" text-anchor="middle" fill="#e8ecf8" font-size="38" font-weight="800">8</text>
   <text x="600" y="236" text-anchor="middle" class="small">days</text>
   <text class="label" x="685" y="198">Longest streak</text>
-  <text id="longest-streak" x="685" y="250" class="value">0</text>
+  <text id="longest-streak" x="685" y="250" class="value">8</text>
 
   <rect class="card" x="860" y="105" width="300" height="190" rx="20"/>
   <text class="label" x="888" y="148">Repositories</text>
-  <text id="repo-count" x="888" y="222" class="value">0</text>
+  <text id="repo-count" x="888" y="222" class="value">5</text>
   <text class="small" x="888" y="250">Public repositories</text>
 
   <text class="label" x="40" y="340">Contributions by weekday</text>
   <text class="small" x="1080" y="340" text-anchor="end">Last year</text>
   <line x1="40" y1="560" x2="1160" y2="560" stroke="#ffffff" stroke-opacity=".1"/>
-  <g id="weekday-bars" fill="url(#barFill)"></g>
+  <g id="weekday-bars" fill="url(#barFill)"><rect class="bar" x="82" y="410" width="76" height="150" rx="12" data-count="34"><title>34 contributions</title></rect><rect class="bar" x="242" y="494" width="76" height="66" rx="12" data-count="15"><title>15 contributions</title></rect><rect class="bar" x="402" y="507" width="76" height="53" rx="12" data-count="12"><title>12 contributions</title></rect><rect class="bar" x="562" y="485" width="76" height="75" rx="12" data-count="17"><title>17 contributions</title></rect><rect class="bar" x="722" y="459" width="76" height="101" rx="12" data-count="23"><title>23 contributions</title></rect><rect class="bar" x="882" y="476" width="76" height="84" rx="12" data-count="19"><title>19 contributions</title></rect><rect class="bar" x="1042" y="525" width="76" height="35" rx="12" data-count="8"><title>8 contributions</title></rect></g>
   <g fill="#8b94b3" font-size="12" text-anchor="middle">
     <text x="120" y="585">Sun</text><text x="280" y="585">Mon</text>
     <text x="440" y="585">Tue</text><text x="600" y="585">Wed</text>
@@ -85,9 +85,9 @@
 
   <rect class="card" x="40" y="620" width="540" height="140" rx="20"/>
   <text class="label" x="68" y="658">Top languages by repository</text>
-  <g id="repo-languages"></g>
+  <g id="repo-languages"><circle cx="70" cy="686" r="4" fill="#5eead4"/><text x="82" y="690" fill="#c9d2f5" font-size="12">HTML</text><text x="500" y="690" text-anchor="end" fill="#8b94b3" font-size="12">62%</text><circle cx="70" cy="700" r="4" fill="#818cf8"/><text x="82" y="704" fill="#c9d2f5" font-size="12">Lua</text><text x="500" y="704" text-anchor="end" fill="#8b94b3" font-size="12">20%</text><circle cx="70" cy="714" r="4" fill="#c084fc"/><text x="82" y="718" fill="#c9d2f5" font-size="12">TypeScript</text><text x="500" y="718" text-anchor="end" fill="#8b94b3" font-size="12">11%</text><circle cx="70" cy="728" r="4" fill="#f59e0b"/><text x="82" y="732" fill="#c9d2f5" font-size="12">CSS</text><text x="500" y="732" text-anchor="end" fill="#8b94b3" font-size="12">4%</text><circle cx="70" cy="742" r="4" fill="#22d3ee"/><text x="82" y="746" fill="#c9d2f5" font-size="12">JavaScript</text><text x="500" y="746" text-anchor="end" fill="#8b94b3" font-size="12">3%</text></g>
   <rect class="card" x="600" y="620" width="560" height="140" rx="20"/>
   <text class="label" x="628" y="658">Contribution summary</text>
-  <text id="summary" x="628" y="700" fill="#e8ecf8" font-size="16">Loading GitHub data...</text>
+  <text id="summary" x="628" y="700" fill="#e8ecf8" font-size="16">128 contributions in the last year</text>
   <text x="628" y="728" class="small">Generated from the GitHub GraphQL API</text>
 </svg>
