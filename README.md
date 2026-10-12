@@ -43,19 +43,16 @@
 
 <br/>
 
-<div>
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="40%" alt="GitHub stats" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="40%" alt="GitHub streak" />
-<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="40%" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AryanMauryahere&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="100%" alt="GitHub stats" />
+</p>
 
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AryanMauryahere&theme=radical&hide_border=true" width="57.5%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AryanMauryahere&theme=radical&hide_border=true&layout=compact" width="42%" alt="Top Languages" />
+</p>
 
 <div align="center">
 
