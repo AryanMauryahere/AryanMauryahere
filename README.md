@@ -59,21 +59,22 @@
 
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanMauryahere/AryanMauryahere/output/github-snake-dark.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/AryanMauryahere/AryanMauryahere/output/github-snake.svg" />
 </picture>
 
+</div> -->
+
+##  📊 contribution stats :
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s4ntrx/s4ntrx/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s4ntrx/s4ntrx/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/s4ntrx/s4ntrx/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
 </div>
-
-## My Contribution Graph
-
-<!-- [Pac man] -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-</picture>
 
 <br/>
 
