@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-![Followers](https://img.shields.io/github/followers/AryanMauryahere?style=for-the-badge&color=7c4dff)
-![Stars](https://img.shields.io/github/stars/AryanMauryahere?style=for-the-badge&color=00e676)
-![Repos](https://img.shields.io/badge/Repos-Public-1f6feb?style=for-the-badge&logo=github) <br>
+<!-- ![Followers](https://img.shields.io/github/followers/AryanMauryahere?style=for-the-badge&color=7c4dff)
+![Stars](https://img.shields.io/github/stars/AryanMauryahere?style=for-the-badge&color=00e676) -->
+<!-- ![Repos](https://img.shields.io/badge/Repos-Public-1f6feb?style=for-the-badge&logo=github) <br> -->
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=AryanMauryahere&label=Profile%20Views&color=00e676&style=for-the-badge" alt="Profile views" /></a>
 
 </div>
