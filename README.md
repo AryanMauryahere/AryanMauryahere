@@ -1,4 +1,4 @@
-<img src="assets/ARYAN-animated.gif" width="100%" alt="Aryan Maurya" />
+<img src="assets/banner-gif.gif" width="100%" alt="Aryan Maurya" />
 
 <h3 align="center">Student | Learner | builder</h3>
 
