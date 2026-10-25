@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;Enthusiastic+%26+curious+coder;Full-stack+%7C+Analytical+%7C+Strategic;Fueled+by+caffeine+%E2%98%95;Always+building+something+new" alt="typing intro" />
 
-<br/><br/>
-
  ![Followers](https://img.shields.io/github/followers/AryanMauryahere?style=for-the-badge&color=7c4dff)
 <!-- ![Stars](https://img.shields.io/github/stars/AryanMauryahere?style=for-the-badge&color=00e676) -->
 <!-- ![Repos](https://img.shields.io/badge/Repos-Public-1f6feb?style=for-the-badge&logo=github) <br> -->
