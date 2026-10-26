@@ -1,6 +1,6 @@
 <img src="assets/banner-gif.gif" width="100%" alt="Aryan Maurya" />
 
-<h3 align="center">Student | Learner | builder</h3>
+<!-- <h3 align="center">Student | Learner | builder</h3> -->
 
 <div align="center">
 
